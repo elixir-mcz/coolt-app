@@ -17,7 +17,7 @@ export default class cooltApp extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to DEDEDE
+          Welcome to MyApp
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
